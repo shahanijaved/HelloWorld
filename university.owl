@@ -6,7 +6,7 @@
     <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
     <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
     <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
-    <!ENTITY untitled-ontology-57 "http://www.semanticweb.org/javedahmed/ontologies/2016/2/untitled-ontology-57#" >
+    <!ENTITY uni "https://github.com/shahanijaved/HelloWorld/edit/master/university.owl#" >
 ]>
 
 
